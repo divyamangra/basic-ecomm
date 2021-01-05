@@ -1,0 +1,13 @@
+.login_container {
+  height: 200vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.login_container > form > button {
+  margin: 10px;
+  border: 1px lightgray;
+  height: 3em;
+  border-radius: 0.5em;
+}

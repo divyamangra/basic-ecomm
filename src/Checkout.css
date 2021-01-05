@@ -1,0 +1,14 @@
+.SubTotal > button {
+  margin-bottom: 20px;
+  height: 45px;
+  /* background-color: #70c9e3; */
+  border-radius: 8px;
+  background-color: yellowgreen;
+
+  /* background-color:#a5cd4e; */
+}
+.SubTotal {
+  display: block;
+  margin-right: 10px;
+  padding-left: 50%;
+}
